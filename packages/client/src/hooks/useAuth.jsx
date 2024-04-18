@@ -75,7 +75,7 @@ export function useProvideAuth() {
       } else {
         throw error;
       }
-    }
+    } 
   };
 
   const signup = async (username, email, password, profile_image, confirm_password) => {
