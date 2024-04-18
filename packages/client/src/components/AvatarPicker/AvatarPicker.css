@@ -1,0 +1,15 @@
+.avatarImage{
+    width: 100px;
+    
+}
+.avatarImage:hover{
+    background-color: white
+}
+.selectedImg{
+    border: 5px solid yellow;
+}
+.avatarEditor{
+    margin:30px;
+    margin-bottom: 50px;
+}
+
